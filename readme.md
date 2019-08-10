@@ -1,3 +1,2 @@
-Some simulation tests with javascript.
-
-* Monty hall game simulation - to switch or stay?
+# Monty hall game simulation - to switch or stay?
+Simple simulation with javascript
